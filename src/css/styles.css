@@ -56,6 +56,14 @@ button {
   text-align: center;
 }
 
+.info {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  padding: 4px 20px;
+  gap: 10px;
+}
+
 .info-label {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
